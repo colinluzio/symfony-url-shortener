@@ -8,7 +8,7 @@ A simple application built on Symfony 2.8 generating shortened urls
 2. Install the composer dependencies:
 
 ```bash
-composer install
+composer update
 ```
 
 3. Load up your database
