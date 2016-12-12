@@ -1,4 +1,2 @@
-url
-===
-
-A Symfony project created on December 9, 2016, 5:54 pm.
+# symfony-url-shortener
+A simple symfony application to shorten urls
