@@ -1,0 +1,50 @@
+body{
+    background: #18BC9C;
+}
+h1, h2{
+    color:#fff;
+    font-size:40px;
+    text-shadow: 1px 1px 2px #000;
+}
+header {
+    background: #2C3E50;
+    font-weight: 600;
+    border: none;
+    padding-top:30px;
+    padding-bottom:30px;
+    margin-bottom:20px;
+}
+.container{
+    width:80%;
+}
+.btn-default,.btn-default:hover,.btn-default:active,btn-default:focus {
+    color: #fff;
+    background-color: #2C3E50;;
+    border-color: #2C3E50;;
+}
+.intro-text{
+    font-size:30px;
+    color:#fff;
+}
+.form-horizontal .form-group {
+    margin-right: -15px;
+    margin-left: -15px;
+    width: 50%;
+    float: left;
+}
+.control-label{
+    display:none;
+}
+
+.has-error .checkbox, .has-error .checkbox-inline, .has-error .control-label, .has-error .help-block, .has-error .radio, .has-error .radio-inline, .has-error.checkbox label, .has-error.checkbox-inline label, .has-error.radio label, .has-error.radio-inline label {
+    color: #2c6094;
+    font-weight:600;
+}
+#main{
+    text-align: left;
+}
+#exception h2{
+    font-size:60px;
+    padding-top:100px;
+    font-weight:700;
+}
