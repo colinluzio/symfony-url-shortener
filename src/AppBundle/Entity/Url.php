@@ -26,7 +26,6 @@ class Url
      * )
      */
     private $url;
-
     /**
      * @ORM\Column(type="string", length=30)
      */
